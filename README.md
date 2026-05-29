@@ -1,7 +1,7 @@
 README.md
 # FocaAí – Protótipo de Baixa Fidelidade
 
-## Nome dos integrantes da equipe
+## Nome
 
 CHRISTIAN DA SILVA RODRIGUES
 
